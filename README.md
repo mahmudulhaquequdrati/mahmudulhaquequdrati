@@ -6,15 +6,20 @@ I'm a full stack web developer with great experience and i am learning a lot abo
 
 Skills: 
 ✅HTML
+<br>
 ✅CSS
-✅BOOTSTRAP
+<br>
 ✅JS
-✅REACT
-✅NODE
+<br>
+✅REACT JS
+<br>
+✅NODE JS
+<br>
 
-- 🔭 I’m currently working on The Unique Developer 
-- 🌱 I’m currently learning JavaScript 
 
+- I'm currently learning at **Programming Hero**
+- I'm currently learning **JavaScript and React.js**
+- Ask me about anything [here](https://github.com/mahmudulhaquequdrati)
 
 **Connect with Me:**
 <br>
