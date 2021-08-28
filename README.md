@@ -18,9 +18,10 @@ Skills:
 <br>
 
 
-🙌- I'm currently learning at **Programming Hero**
-🙌- I'm currently learning **JavaScript and React.js**
+🙌- I'm currently learning at **Programming Hero** <br>
+🙌- I'm currently learning **JavaScript and React.js** <br>
 🧑🏻‍🚀- Ask me about anything [here](https://github.com/mahmudulhaquequdrati)
+<br>
 
 **Connect with Me:**
 <br>
