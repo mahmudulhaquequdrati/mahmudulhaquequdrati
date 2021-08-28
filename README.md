@@ -5,6 +5,7 @@
 I'm a full stack web developer with great experience and i am learning a lot about programming.
 
 Skills: 
+<br>
 ✅HTML
 <br>
 ✅CSS
@@ -17,9 +18,9 @@ Skills:
 <br>
 
 
-- I'm currently learning at **Programming Hero**
-- I'm currently learning **JavaScript and React.js**
-- Ask me about anything [here](https://github.com/mahmudulhaquequdrati)
+🙌- I'm currently learning at **Programming Hero**
+🙌- I'm currently learning **JavaScript and React.js**
+🧑🏻‍🚀- Ask me about anything [here](https://github.com/mahmudulhaquequdrati)
 
 **Connect with Me:**
 <br>
