@@ -1,4 +1,4 @@
-<img src='https://i.ibb.co/xHP5cfN/programming.gif' width='100%'/>
+<p align='center'><img src='https://i.ibb.co/xJ2v94L/giphy.gif' width='50%'/></p>
 ### Hi there 👋, I'm Mahmud Qudrati
 #### Web Developer
 
