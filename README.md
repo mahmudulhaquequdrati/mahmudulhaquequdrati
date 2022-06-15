@@ -1,4 +1,4 @@
-![Web Developer](https://pbs.twimg.com/profile_banners/1431137133226385411/1630151584/1080x360)
+![Web Developer](https://i.ibb.co/xHP5cfN/programming.gif)
 ### Hi there 👋, I'm Mahmud Qudrati
 #### Web Developer
 
