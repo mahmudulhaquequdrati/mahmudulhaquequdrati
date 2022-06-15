@@ -1,4 +1,4 @@
-![Web Developer](https://i.ibb.co/xHP5cfN/programming.gif)
+<img src='https://i.ibb.co/xHP5cfN/programming.gif' width='100%'/>
 ### Hi there 👋, I'm Mahmud Qudrati
 #### Web Developer
 
